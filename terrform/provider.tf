@@ -21,3 +21,4 @@ terraform {
     dynamodb_table = "hcltest-terraform-lock-table"
     encrypt        = true
 }
+}
